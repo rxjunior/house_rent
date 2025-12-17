@@ -1,0 +1,15 @@
+creation_timestamp: 1765653111109
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1765653111109
+model_id: m-565ef007ab8a4f9ebe5bb7054fda1c85
+name: RandomForest
+run_id: 3d86c2d7f1484bf2854b1fe6dd6287cf
+run_link: null
+source: models:/m-565ef007ab8a4f9ebe5bb7054fda1c85
+status: READY
+status_message: null
+storage_location: file:///home/rxjunior/DEV/house_rent/notebooks/../mlruns/623842325334433217/models/m-565ef007ab8a4f9ebe5bb7054fda1c85/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rxjunior/DEV/house_rent/notebooks/../mlruns/623842325334433217/3d86c2d7f1484bf2854b1fe6dd6287cf/artifacts
+end_time: 1765653111122
+entry_point_name: ''
+experiment_id: '623842325334433217'
+lifecycle_stage: active
+run_id: 3d86c2d7f1484bf2854b1fe6dd6287cf
+run_name: Run_RF_Depth_10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765653102950
+status: 3
+tags: []
+user_id: rxjunior

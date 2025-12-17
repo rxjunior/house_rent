@@ -1,0 +1,10 @@
+artifact_location: file:///home/rxjunior/DEV/house_rent/notebooks/../mlruns/623842325334433217/models/m-565ef007ab8a4f9ebe5bb7054fda1c85/artifacts
+creation_timestamp: 1765653107720
+experiment_id: '623842325334433217'
+last_updated_timestamp: 1765653111101
+model_id: m-565ef007ab8a4f9ebe5bb7054fda1c85
+model_type: null
+name: full_pipeline_model
+source_run_id: 3d86c2d7f1484bf2854b1fe6dd6287cf
+status: 2
+status_message: null
